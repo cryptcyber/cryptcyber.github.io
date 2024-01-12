@@ -13,7 +13,7 @@
       <link>https://cryptcyber.github.io/posts/mypost/</link>
       <pubDate>Fri, 12 Jan 2024 01:28:13 -0700</pubDate>
       <guid>https://cryptcyber.github.io/posts/mypost/</guid>
-      <description>This is some content</description>
+      <description>This is some content&#xA;public static void main(String[]args) { System.out.println(&amp;#34;This is a print statement&amp;#34;); } </description>
     </item>
   </channel>
 </rss>
